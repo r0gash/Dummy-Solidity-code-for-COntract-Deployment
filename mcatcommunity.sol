@@ -2,9 +2,9 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract MztacatCommunity {
-    string public name = "MztacatCommunity";
-    string public symbol = "MZT";
+contract baldman {
+    string public name = "baldman";
+    string public symbol = "bald";
     uint8 public decimals = 18;
     uint256 public totalSupply = 1000000 * (10 ** uint256(decimals));
     address public owner;
